@@ -1,5 +1,7 @@
 Original post for more information: https://medium.com/@vysec.private/cloudfront-domain-hijacks-under-attack-c15c64607b7c
 
+Disclaimer: No information on any of my repositories should be used for unlawful purposes. All information I publish is to aid and assist the cyber security industry's growth and assist in protection of organisations and individuals.
+
 Note: I am not putting you at further risk that you already are by putting it on GitHub to help you identify it. The attackers / third party have already taken control over an instance that can control your domain name. If you want your domain removed, get in contact with me.
 
 
